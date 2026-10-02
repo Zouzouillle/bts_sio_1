@@ -33,9 +33,9 @@ Aujourd'hui je vais "essayer" de vous expliquer certaines informations sur la mi
 
 ### Ajouter des titres et des paragraphes
 
-Pour organiser un texte, un titre, un paragraphes et sa mise en forme, des balises sont nécéssaires.
+Pour organiser un texte, un titre, un paragraphe et sa mise en forme, des balises sont nécessaires.
 
-*A savoir qu'une balise se présente ainsi <> au début, et, à la fin, il ne faut pas non plus oublier de fermer cette balise de cette manière </>*.
+*À savoir qu'une balise se présente ainsi ```<>``` au début, et, à la fin, il ne faut pas non plus oublier de fermer cette balise de cette manière ```</>```*.
 
 Commençons tout d'abord par les !TITRES!
 
@@ -67,16 +67,27 @@ Commençons tout d'abord par les !TITRES!
 
 Il y a 3 balises importantes pour les titres :
 
-1. La balise **h1**, l'équivalent visuel de --> 
+1. La balise ```<h1>```, l'équivalent visuel de --> 
 # Je suis le Grand titre principal
+```html
+<h1>Grand titre.</h1>
+```
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. La balise **h2**, l'équivalent visuel de --> 
+2. La balise ```<h2>```, l'équivalent visuel de --> 
 ## Je suis un titre 
+```html
+<h2>Titre.</h2>
+```
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. La balise **h3**, l'équivalent visuel de --> 
-### Je suis un sous titre
+3. La balise ```<h3>```, l'équivalent visuel de --> 
+### Je suis un sous-titre
+```html
+<h3>Sous-titre.</h3>
+```
 
-*PS: La balise 'h1' ne doit être utilisé qu'une seule fois par page Html, car par principe, il n'y a qu'un titre sur un livre et non deux*
+*PS: La balise ```<h1>``` ne doit être utilisée qu'une seule fois par page Html, car par principe, il n'y a qu'un titre sur la couverture d'un livre et non deux*
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -107,10 +118,23 @@ ET POUR TERMINER, NOUS ALLONS PARLER DU TEEEXTTEEEU
 
 **Le texteuu**
 
-2 balises sont importantes à prendre en compte pour le texteuu 
+Deux balises sont importantes à prendre en compte pour le texteuu 
 
-- La balise 'p', qui permet de faire des paragraphes, ou tout simplement écrire du texteuu,
-- La balise 'br/', quant à elle, permet un retour à la ligne à la suite d'un paragraphe par exemple. Cela évite aussi d'utiliser plusieurs balises 'p'
+- La balise ```<p>```, qui permet de faire des paragraphes, ou tout simplement écrire du texteuu,
+  Exemple :
+  
+```html
+<p>Ceci est un paragraphe.</p>
+```
+
+- La balise ```<br/>```, quant à elle, permet un retour à la ligne après un paragraphe par exemple. Cela évite aussi d'utiliser plusieurs balises ```<p>```
+
+*PS: La balise ```<br/>``` ne doit être utilisée que de cette manière, car elle correspond à un retour à la ligne comme expliqué si dessus 
+exemple :* 
+```html
+Bonjour<br/>
+Tout le monde
+``` 
 
 
 ```
@@ -131,7 +155,7 @@ ET POUR TERMINER, NOUS ALLONS PARLER DU TEEEXTTEEEU
 ```
 
 
-C'est fini, j'ai plus d'inspi, aurevoir.
+C'est fini, j'ai plus d'inspi, au revoir.
 
 
 ```
