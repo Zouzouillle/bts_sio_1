@@ -67,21 +67,21 @@ Commençons tout d'abord par les !TITRES!
 
 Il y a 3 balises importantes pour les titres :
 
-1. La balise ```<h1>```, l'équivalent visuel de --> 
+1. La balise ```<h1>```, l'équivalent Markdown de --> 
 # Je suis le Grand titre principal
 ```html
 <h1>Grand titre.</h1>
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. La balise ```<h2>```, l'équivalent visuel de --> 
+2. La balise ```<h2>```, l'équivalent Markdown de --> 
 ## Je suis un titre 
 ```html
 <h2>Titre.</h2>
 ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. La balise ```<h3>```, l'équivalent visuel de --> 
+3. La balise ```<h3>```, l'équivalent Markdown de --> 
 ### Je suis un sous-titre
 ```html
 <h3>Sous-titre.</h3>
@@ -118,7 +118,7 @@ ET POUR TERMINER, NOUS ALLONS PARLER DU TEEEXTTEEEU
 
 **Le texteuu**
 
-Deux balises sont importantes à prendre en compte pour le texteuu 
+Deux balises sont importantes à prendre en compte pour le texteuu :
 
 - La balise ```<p>```, qui permet de faire des paragraphes, ou tout simplement écrire du texteuu,
   Exemple :
@@ -129,13 +129,12 @@ Deux balises sont importantes à prendre en compte pour le texteuu
 
 - La balise ```<br/>```, quant à elle, permet un retour à la ligne après un paragraphe par exemple. Cela évite aussi d'utiliser plusieurs balises ```<p>```
 
-*PS: La balise ```<br/>``` ne doit être utilisée que de cette manière, car elle correspond à un retour à la ligne comme expliqué si dessus 
+*PS: La balise ```<br/>``` ne doit être utilisée que de cette manière, car elle correspond à un retour à la ligne comme expliqué si-dessus 
 exemple :* 
 ```html
 Bonjour<br/>
 Tout le monde
 ``` 
-
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠠⡤⣤⠤⠤⠤⢀⡀⠀⠀⠀⠀⠀⠀⠀⠠
@@ -151,12 +150,9 @@ Tout le monde
 ⠀⠀⡏⠉⠉⡟⠋⠑⡧⢄⠀⡇⠀⡇⢀⡠⠷⠦⣈⣇⣇⡀⢸⠀⠀⠀⠀⠀⠀⠀
 ⠤⠀⠃⠀⠔⠃⠀⠸⡇⠀⠙⠓⠚⠉⠉⠀⠀⠀⠈⠹⠛⠽⣙⠗⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀
-
 ```
 
-
 C'est fini, j'ai plus d'inspi, au revoir.
-
 
 ```
 ⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
