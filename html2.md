@@ -1,7 +1,7 @@
 "# bts_sio_1" 
 Bonjour,
 
-Aujourd'hui je vais vous expliquez certaine information sur la mise en page d'une page html 
+Aujourd'hui je vais "essayer" de vous expliquer certaines informations sur la mise en page d'un html de la manière la plus "simple" possible.
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠤⠖⠒⠚⠉⠉⣿⣿⣿⣿⣷⠶⠤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -31,13 +31,13 @@ Aujourd'hui je vais vous expliquez certaine information sur la mise en page d'un
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-### Ajouter des titres  et des paragraphes
+### Ajouter des titres et des paragraphes
 
 Pour organiser un texte, un titre, un paragraphes et sa mise en forme, des balises sont nécéssaires.
 
-*A savoir qu'une balise se présente ainsi <> au début et a la fin il ne faut pas oublier de fermer cette balise de cette manière</>*
+*A savoir qu'une balise se présente ainsi <> au début, et, à la fin, il ne faut pas non plus oublier de fermer cette balise de cette manière </>*.
 
-Commençons tout d'abord par les titres 
+Commençons tout d'abord par les !TITRES!
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⡏⠃⠀⢻
@@ -65,18 +65,18 @@ Commençons tout d'abord par les titres
 
 ### **Les titres**
 
-Il y a 3 balises importante pour les titres :
+Il y a 3 balises importantes pour les titres :
 
-1. La balise **h1**, l'équivalent de --> 
+1. La balise **h1**, l'équivalent visuel de --> 
 # Je suis le Grand titre principal
 
-2. La balise **h2**, l'équivalent de --> 
+2. La balise **h2**, l'équivalent visuel de --> 
 ## Je suis un titre 
 
-3. La balise **h3**, l'équivalent de --> 
+3. La balise **h3**, l'équivalent visuel de --> 
 ### Je suis un sous titre
 
-*PS: La balise h1 ne doit être utilisé qu'une seule fois par page Html, car par principe, il n'y a qu'un titre sur un livre et non deux*
+*PS: La balise 'h1' ne doit être utilisé qu'une seule fois par page Html, car par principe, il n'y a qu'un titre sur un livre et non deux*
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -105,12 +105,12 @@ ET POUR TERMINER, NOUS ALLONS PARLER DU TEEEXTTEEEU
 
 ```
 
-**Le texte**
+**Le texteuu**
 
-2 balises sont importante à prendre en compte pour le texte 
+2 balises sont importantes à prendre en compte pour le texteuu 
 
-- La balise p, qui permet de faire des paragraphes, ou tout simplement écrire du texte,
-- La balise 'br/', quant à elle, permet un retour à la ligne à la suite d'un paragraphe par exemple. Cela évite d'utiliser plusieurs balises P
+- La balise 'p', qui permet de faire des paragraphes, ou tout simplement écrire du texteuu,
+- La balise 'br/', quant à elle, permet un retour à la ligne à la suite d'un paragraphe par exemple. Cela évite aussi d'utiliser plusieurs balises 'p'
 
 
 ```
@@ -131,4 +131,37 @@ ET POUR TERMINER, NOUS ALLONS PARLER DU TEEEXTTEEEU
 ```
 
 
-C'est fini, j'ai plus d'inspi
+C'est fini, j'ai plus d'inspi, aurevoir.
+
+
+```
+⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⣤⠤⠤⠤⠤⣤⣤⣄⡀⠀⠀⠀⠀⠀⢀⡔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⢄⡀⠀⠀⠀⠀⣀⣠⣤⠶⠒⠛⠉⠉⠀⠀⠀⠀⢠⣶⣶⣶⣦⣬⡉⠛⠶⣤⡀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢙⣀⣤⣶⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠛⠻⢿⠿⠀⠀⠈⣛⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣠⣤⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠶⠛⠁⣴⣿⣿⠿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠤⠿⠷⠶⠦⣴⡏⠈⣻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠉⣿⣿⡇⠀⠀⠀⠀⠀⠀⢀⣴⠾⠋⠀⠀⠀⠈⠻⠛⣁⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠙⢿⣏⠻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠘⠛⠃⠀⠀⠀⠀⢀⡴⠛⠁⠀⠀⠀⢀⢀⣤⠶⠋⠉⠀⠀⠀⠈⠙⠳⣦⡀⠀⠀⠀⢰⡏⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣷⣿⡆⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣴⢏⡴⠞⠉⠉⠻⡄⢹⡿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣠⣬⣻⣄⠀⠰⣿⠀⠀⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⠈⠿⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣀⠀⠀⢠⡿⣡⠏⠀⠀⠀⠀⣴⠛⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⡄⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠿⠿⠟⣹⠀⠀⠀⠈⠉⠛⢶⣄⠀⠀⠀⠀⠀
+⠶⣶⡿⠇⢠⡟⣰⠇⠀⠀⠀⢠⡞⠁⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⡿⡇⠀⠹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡏⠀⠀⠀⠀⠀⠀⠀⠘⢳⣄⠀⠀⠀
+⠀⠙⠃⠀⣾⠁⡟⠀⠀⠀⢠⡟⠀⠀⢸⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⢠⡇⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⣀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡆⠀⠀
+⣶⣶⣶⡄⣿⢸⠃⠀⠀⠀⢸⠀⠀⠀⠀⠙⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡟⠁⠀⠀⠀⠀⠉⠛⠶⠶⠤⠶⠶⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡀⠀
+⣿⣿⣿⣿⣿⢸⡀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠈⠻⣦⣀⠀⠀⠀⠀⠀⠀⣠⡶⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⠀
+⣿⣿⣿⣿⣿⠀⢳⣄⡀⣠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠓⠒⠒⠚⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀
+⣿⣿⣿⡿⢸⣆⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡄⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣤⡤⠾⠞⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⡇⠀
+⣿⣿⣿⡇⠈⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠛⠛⠛⠛⠛⠛⠛⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡟⠀⠀
+⣿⣿⣿⠇⠐⣘⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⡿⠁⠀⠀
+⣿⣿⡿⣠⡾⠋⠹⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠀⠀⠀⠀
+⠟⠋⢡⣿⠀⠀⣠⡌⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⠞⠉⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⣿⣀⣼⠟⠁⠀⠀⠀⢠⣄⠀⠀⠀⣤⡾⠋⠙⠿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⡴⠶⢟⣏⠀⠀⢀⣀⣀⣀⠀⠀⠀
+⠀⠀⠀⠘⢿⣁⠀⢀⣴⣦⣀⠈⠙⠷⣤⣼⠏⠀⠀⠀⢀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣠⣤⣤⣤⣴⡶⠖⠚⠛⠋⢻⣏⠉⠀⠀⠈⣹⣤⠶⠛⠉⠉⠙⠳⣦⠀
+⠀⠀⠀⠀⠀⢻⣾⠛⠉⠉⠙⠻⣦⡾⣻⠋⠀⠀⠀⣠⡿⠓⠒⠒⠛⠛⢿⠛⠛⠛⠛⠋⢹⡏⠁⠀⠀⠀⢼⡇⠀⠀⠀⠀⠀⠻⣄⠀⠀⠛⠉⠀⠀⠀⠀⠀⠀⠀⢽⣧
+⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠘⢿⡇⠀⠀⠀⢀⣿⠁⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠻⣄⠀⠀⠀⠀⠀⢶⣄⠀⠀⠀⣸⡿
+⠀⠀⠀⠀⠀⠈⠿⣶⣤⣶⡄⠀⠀⠈⢷⠀⠀⢠⡿⠁⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠹⣦⣀⣀⣠⡴⠞⠙⠻⠶⠾⠛⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀⠀⣠⡿⠁⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠳⣦⣦⣤⠾⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠄⠀⠀⠀⠀⠀⣷⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+```
